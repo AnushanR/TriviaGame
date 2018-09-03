@@ -32,7 +32,7 @@ var triviaQuestions = [{
 	answerList: ["Robbie Lawler ", "Houston Alexander", "Marlon Sandro", "James Irvin"],
 	answer: 3
 },{
-	question: "Which team holds the record for the most points scored in one quarter of a SUper Bowl?",
+	question: "Which team holds the record for the most points scored in one quarter of a Super Bowl?",
 	answerList: ["New York Giants", "Washington Redskins", "New Orleans Saints", "Buffalo Bills"],
 	answer: 1
 },{
